@@ -66,7 +66,6 @@ def DashboardHeader():
     )
 
 def ChartCard(title, subtitle, canvas_id):
-    """A reusable container for Chart.js canvases."""
     return Div(
         Div(
             H3(title, cls="text-lg font-bold text-slate-200"),
