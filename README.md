@@ -28,6 +28,6 @@ A portfolio and special-interest project designed to collect environmental and v
 ## Screenshots
 
 #### Live Telemetry Dashboard
-![Dashboard Preview](screenshots/dashboard_v2_screenshot.png)
+![Dashboard Preview](screenshots/dashboard_v2_screenshot.jpg)
 
 More to be added. For access to live system, please contact repository owner @ scott.pitcock@csuglobal.edu
