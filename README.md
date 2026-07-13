@@ -23,6 +23,7 @@ A portfolio and special-interest project designed to collect environmental and v
 * ** Write daily script that takes a snapshot of each of the plants in the system
 * ** Using marker pixels, measure plant growth/mass for rate calculation
 * ** Dashboard tools for data insights. Sliders, data filtering, etc.
+* ** Code cleanup from switching to postgres
 
 ## Screenshots
 
