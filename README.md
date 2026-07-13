@@ -11,19 +11,19 @@ A portfolio and special-interest project designed to collect environmental and v
 
 ##  Status
 
-* **Repository has been comitted to GitHub.
-* **Base hardware infrastructure has been tested and calibrated.
-* **Updated from csv records to postgres database, with ability to download csv datasets
-* **Abstracted bulky sql, js, and htmx code from main python codesets
+* Repository has been comitted to GitHub.
+* Base hardware infrastructure has been tested and calibrated.
+* Updated from csv records to postgres database, with ability to download csv datasets
+* Abstracted bulky sql, js, and htmx code from main python codesets
 
 ## What's being worked on
 
-* ** Sending Video4Linux2 command/control instructions to Insta360 Link 2 Camera for pan, tilt, and zoom
-* ** Writing calibration tool that uses cv to tell the camera to find square markers, and record the gimbel coordinates
-* ** Write daily script that takes a snapshot of each of the plants in the system
-* ** Using marker pixels, measure plant growth/mass for rate calculation
-* ** Dashboard tools for data insights. Sliders, data filtering, etc.
-* ** Code cleanup from switching to postgres
+* Sending Video4Linux2 command/control instructions to Insta360 Link 2 Camera for pan, tilt, and zoom
+* Writing calibration tool that uses cv to tell the camera to find square markers, and record the gimbel coordinates
+* Write daily script that takes a snapshot of each of the plants in the system
+* Using marker pixels, measure plant growth/mass for rate calculation
+* Dashboard tools for data insights. Sliders, data filtering, etc.
+* Code cleanup from switching to postgres
 
 ## Screenshots
 
