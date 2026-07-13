@@ -1,7 +1,7 @@
 # NFT Telemetry and Automation v2
-## Previous version (v1) retained
 
 A portfolio and special-interest project designed to collect environmental and visual data during hydroponic grow cycles.
+### Previous version (v1) retained
 
 ## Hardware 
 
