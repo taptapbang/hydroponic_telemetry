@@ -8,7 +8,7 @@ A portfolio and special-interest project designed to collect environmental and v
 * **Edge Compute:** Raspberry Pi 5
 * **Sensor Suite:** Atlas Scientific environmental monitoring kits
 * **Peripherals:** Insta360 Link 2 with motorized gimble
-* **Future:** Sensor expansion including ambient t*emp and humidity sensors, water level sensors.
+* **Future:** Sensor expansion including ambient temp and humidity sensors, water level sensors.
 
 ##  Status
 
