@@ -20,7 +20,7 @@ A portfolio and special-interest project designed to collect environmental and v
 ## What's being worked on
 
 * Sending Video4Linux2 command/control instructions to Insta360 Link 2 Camera for pan, tilt, and zoom
-* Writing calibration tool that uses cv to tell the camera to find square markers, and record the gimbel coordinates
+* Writing calibration tool that uses cv to tell the camera to find square markers, and record the gimbal coordinates
 * Write daily script that takes a snapshot of each of the plants in the system
 * Using marker pixels, measure plant growth/mass for rate calculation
 * Dashboard tools for data insights. Sliders, data filtering, etc.
